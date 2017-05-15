@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<PackageManifest Version="2.0.0" xmlns="http://schemas.microsoft.com/developer/vsx-schema/2011" xmlns:d="http://schemas.microsoft.com/developer/vsx-schema-design/2011">
+  <Metadata>
+    <Identity Id="BE701C9A-FDDD-44C9-AAA9-69B441577417" Version="1.1" Language="en-US" Publisher="Yuri Sapozhnikov" />
+    <DisplayName>Code Region Snippets</DisplayName>
+    <Description xml:space="preserve">The easiest way to add Code Regions with name at region start and region end.</Description>
+    <Icon>Resources\CodeRegionsPackage.png</Icon>
+    <PreviewImage>Resources\CodeRegionsPackage.png</PreviewImage>
+    <Tags>code snippet</Tags>
+  </Metadata>
+  <Installation>
+    <InstallationTarget Id="Microsoft.VisualStudio.Community" Version="[12.0,14.0]" />
+  </Installation>
+  <Dependencies>
+  </Dependencies>
+  <Assets>
+    <Asset Type="Microsoft.VisualStudio.VsPackage" Path="Snippets\Regions.pkgdef" />
+  </Assets>
+</PackageManifest>
+<!--
+    Please add the following element to PackageManifest\\Assets:
+    <Asset Type="Microsoft.VisualStudio.VsPackage" d:Source="Project" d:ProjectName="%CurrentProject%" Path="|%CurrentProject%;PkgdefProjectOutputGroup|" />
+-->
+<!--
+    Please add the following element to PackageManifest\\Dependencies:
+    <Dependency Id="Microsoft.VisualStudio.MPF.14.0" DisplayName="Visual Studio MPF 14.0" d:Source="Installed" Version="[14.0]" />
+-->
