@@ -9,7 +9,7 @@ namespace VSIXCodeRegion
     {
         public const string Id = "BE701C9A-FDDD-44C9-AAA9-69B441577417";
         public const string Name = "Code Region Snippets";
-        public const string Description = @"The easiest way to add Code Regions with name at region start and region end.";
+        public const string Description = @"The easiest way to add Code Regions with name with in region start and region end.";
         public const string Language = "en-US";
         public const string Version = "1.1";
         public const string Author = "Yuri Sapozhnikov";

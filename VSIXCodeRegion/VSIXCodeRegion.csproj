@@ -47,10 +47,6 @@
     </Compile>
   </ItemGroup>
   <ItemGroup>
-    <Content Include="LICENSE.txt">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
-      <IncludeInVSIX>true</IncludeInVSIX>
-    </Content>
     <Content Include="Regions\pp_regions_in_class.snippet">
       <IncludeInVSIX>true</IncludeInVSIX>
     </Content>
@@ -82,6 +78,9 @@
     <Content Include="source.extension.ico">
       <DependentUpon>source.extension.vsixmanifest</DependentUpon>
     </Content>
+    <None Include="..\LICENSE">
+      <Link>LICENSE</Link>
+    </None>
     <None Include="source.extension.vsixmanifest">
       <SubType>Designer</SubType>
       <Generator>VsixManifestGenerator</Generator>

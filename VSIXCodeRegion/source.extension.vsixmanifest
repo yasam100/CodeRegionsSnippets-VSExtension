@@ -3,8 +3,8 @@
   <Metadata>
     <Identity Id="BE701C9A-FDDD-44C9-AAA9-69B441577417" Version="1.1" Language="en-US" Publisher="Yuri Sapozhnikov" />
     <DisplayName>Code Region Snippets</DisplayName>
-    <Description xml:space="preserve">The easiest way to add Code Regions with name at region start and region end.</Description>
-    <License>.\LICENSE.txt</License>
+    <Description xml:space="preserve">The easiest way to add Code Regions with name with in region start and region end.</Description>
+    <License>LICENSE</License>
     <ReleaseNotes>.\CHANGELOG.md</ReleaseNotes>
     <Icon>Resources\CodeRegionsPackage.png</Icon>
     <PreviewImage>Resources\CodeRegionsPackage.png</PreviewImage>

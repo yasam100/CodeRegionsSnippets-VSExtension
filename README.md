@@ -4,7 +4,7 @@
 [![Build status](https://ci.appveyor.com/api/projects/status/hv6uyc059rqbc6fj?svg=true)](https://ci.appveyor.com/project/madskristensen/extensibilitytools)
 
 <!-- Update the VS Gallery link after you upload the VSIX-->
-Download this extension from the [VS Gallery](https://visualstudiogallery.msdn.microsoft.com/[GuidFromGallery])
+Download this extension from the [VS Gallery](https://marketplace.visualstudio.com/items?itemName=YurS.CodeRegionSnippets)
 or get the [CI build](http://vsixgallery.com/extension/BE701C9A-FDDD-44C9-AAA9-69B441577417/).
 
 ---------------------------------------
