@@ -8,11 +8,11 @@ namespace VSIXCodeRegion
     static class Vsix
     {
         public const string Id = "BE701C9A-FDDD-44C9-AAA9-69B441577417";
-        public const string Name = "Code Region Snippets";
-        public const string Description = @"The easiest way to add Code Regions with name with in region start and region end.";
+        public const string Name = "C# Code Region Snippets (vs2013, vs2015)";
+        public const string Description = @"The easiest way to add Code Regions with same name at region start and region end to  C#  code in vs2013, vs2015.";
         public const string Language = "en-US";
         public const string Version = "1.1";
         public const string Author = "Yuri Sapozhnikov";
-        public const string Tags = "code snippet";
+        public const string Tags = "code snippet, region, regions, c#, vs2013, vs2015, collapse";
     }
 }

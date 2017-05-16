@@ -2,13 +2,14 @@
 <PackageManifest Version="2.0.0" xmlns="http://schemas.microsoft.com/developer/vsx-schema/2011" xmlns:d="http://schemas.microsoft.com/developer/vsx-schema-design/2011">
   <Metadata>
     <Identity Id="BE701C9A-FDDD-44C9-AAA9-69B441577417" Version="1.1" Language="en-US" Publisher="Yuri Sapozhnikov" />
-    <DisplayName>Code Region Snippets</DisplayName>
-    <Description xml:space="preserve">The easiest way to add Code Regions with name with in region start and region end.</Description>
-    <License>LICENSE</License>
-    <ReleaseNotes>.\CHANGELOG.md</ReleaseNotes>
+    <DisplayName>C# Code Region Snippets (vs2013, vs2015)</DisplayName>
+    <Description xml:space="preserve">The easiest way to add Code Regions with same name at region start and region end to  C#  code in vs2013, vs2015.</Description>
+    <MoreInfo>https://github.com/yasam100/CodeRegionsSnippets-VSExtension</MoreInfo>
+    <License>Resources\LICENSE</License>
+    <ReleaseNotes>https://github.com/yasam100/CodeRegionsSnippets-VSExtension/blob/master/CHANGELOG.md</ReleaseNotes>
     <Icon>Resources\CodeRegionsPackage.png</Icon>
     <PreviewImage>Resources\CodeRegionsPackage.png</PreviewImage>
-    <Tags>code snippet</Tags>
+    <Tags>code snippet, region, regions, c#, vs2013, vs2015, collapse</Tags>
   </Metadata>
   <Installation>
     <InstallationTarget Id="Microsoft.VisualStudio.Community" Version="[12.0,14.0]" />
