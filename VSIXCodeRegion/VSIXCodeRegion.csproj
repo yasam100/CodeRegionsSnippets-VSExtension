@@ -59,6 +59,11 @@
     <Compile Include="VSIXCodeRegionPackage.cs" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="..\Art\snippets_set_class_01.png">
+      <Link>Resources\snippets_set_class_01.png</Link>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      <IncludeInVSIX>true</IncludeInVSIX>
+    </Content>
     <Content Include="Regions\pp_regions_in_class.snippet">
       <IncludeInVSIX>true</IncludeInVSIX>
     </Content>

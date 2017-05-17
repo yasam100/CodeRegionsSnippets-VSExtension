@@ -7,8 +7,7 @@ Download this extension from the [VS Gallery](https://marketplace.visualstudio.c
 or get the [CI build](http://vsixgallery.com/extension/BE701C9A-FDDD-44C9-AAA9-69B441577417/).
 
 ---------------------------------------
-
-The easiest way to add Code Regions with same name at region start and region end to `C#` code in vs2013, vs2015.
+This lightweight extension allows to add Code Regions with same name at region start and region end marks for `C#` code in vs2013, vs2015.
 
 See the [change log](CHANGELOG.md) for changes and road map.
 
@@ -52,7 +51,11 @@ Surrounds code with regions marks when the region name is predefined for:
 ### Fixed set of code regions snippet
 Adds predefined set of regions for:
   - `Class`
+
+    [![Regions set 4 class](Art/snippets_set_class_01.png)](Art/snippets_set_class_01.png)
   - `Interface`
+
+    [![Regions set 4 interface](Art/snippets_set_interface_01.png)](Art/snippets_set_interface_01.png)
 
 
 ## Contribute
@@ -61,7 +64,7 @@ if you want to contribute to this project.
 
 For cloning and building this project yourself, make sure
 to install the
-[Code Regions Snippets](https://marketplace.visualstudio.com/items?itemName=YurS.CodeRegionSnippets)
+[Extensibility Tools 2015](https://marketplace.visualstudio.com/vsgallery/ab39a092-1343-46e2-b0f1-6a3f91155aa6)
 extension for Visual Studio which enables some features
 used by this project.
 
