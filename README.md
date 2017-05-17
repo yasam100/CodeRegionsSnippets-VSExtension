@@ -3,7 +3,7 @@
 [![Build status](https://ci.appveyor.com/api/projects/status/4p5c0dy577mrmevf?svg=true)](https://ci.appveyor.com/project/yuri-s100/coderegionssnippets-vsextension)
 
 <!-- Update the VS Gallery link after you upload the VSIX-->
-Download this extension from the [VS Gallery](https://marketplace.visualstudio.com/vsgallery/26e59a14-f92c-40b1-8dc8-a62b3f55e68a)
+Download this extension from the [VS Gallery](https://marketplace.visualstudio.com/vsgallery/54ad0509-6b3a-4223-b88e-af425c8928f0)
 or get the [CI build](http://vsixgallery.com/extension/BE701C9A-FDDD-44C9-AAA9-69B441577417/).
 
 ---------------------------------------
